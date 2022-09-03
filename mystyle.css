@@ -1,0 +1,10 @@
+/* this is the external CSS stylesheet */
+@charset "utf-8";
+
+body { background-color:lightblue; }
+h1 { color: Orange; margin-left:20px; }
+p {  color:purple; width:300px; border:2px solid black; }
+p,li,h1 {color:red; }
+h2 { color:lightblue; }
+div { color:yellow; }
+h3{ color:white; background-color:Olive; text-align:center; width:500px; }

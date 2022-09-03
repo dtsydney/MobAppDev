@@ -1,0 +1,7 @@
+/* this is the external CSS stylesheet */
+
+@charset "utf-8"; 
+h1{color:red;}
+h2{color:green;}
+p{ color:cyan; font-family="calibri"; font-size="24px";} 
+body { background-color:Yellow;}
